@@ -1961,7 +1961,6 @@
   url: https://brightonruby.com
   twitter: brightonruby
 
-<<<<<<< HEAD
 - name: RubyNess
   location: Inverness, Scotland
   start_date: 2020-07-16
@@ -2002,14 +2001,6 @@
   twitter: rubyc_eu
   cfp_phrase: CFP closes
   cfp_date: 2020-03-31
-=======
-- name: RubyConf TH
-  location: Bangkok, Thailand
-  start_date: 2020-10-16
-  end_date: 2020-10-17
-  url: https://rubyconfth.com/
-  twitter: rubyconfth
->>>>>>> ac34893... Announce dates for RubyConf TH 2020
 
 - name: RubyConf
   location: Houston, TX
